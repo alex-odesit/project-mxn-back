@@ -1,4 +1,11 @@
 {
+  "tabWidth": 2,
+  "useTabs": true,
   "singleQuote": true,
-  "trailingComma": "all"
+  "trailingComma": "none",
+  "arrowParens": "avoid",
+  "printWidth": 120,
+  "bracketSpacing": true,
+  "bracketSameLine": true,
+  "endOfLine": "crlf"
 }
